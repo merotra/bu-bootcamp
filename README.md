@@ -1,4 +1,4 @@
-# bu-bootcamp Foundations Bootcamp
+# BU CS Foundations Bootcamp
 
 This repository contains my work for the Boston University
 Online AI Programs CS Foundations Bootcamp.
